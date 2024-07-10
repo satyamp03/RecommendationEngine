@@ -4,6 +4,24 @@
 
 This project involves the design and development of an AI-powered recommendation engine for an e-commerce platform, providing personalized product recommendations to users based on their browsing and purchase history.
 
+## Project Structure
+
+- `data_preprocessing.py`: Script for data collection and preprocessing.
+- `recommendation_model.py`: Script for building the recommendation model.
+- `app.py`: Flask application to serve the recommendation engine API.
+- `evaluate_model.py`: Script for evaluating the recommendation engine.
+- `data/IMDB_Top250_Tvshows.csv`: Dataset used for the project.
+- `data/preprocessed_data.csv`: Preprocessed dataset.
+- `requirements.txt`: List of dependencies.
+
+## Setup Instructions
+
+**Clone the repository**:
+   ```sh
+   git clone https://github.com/satyamp03/RecommendationEngine.git
+   cd RecommendationEngine
+```
+
 ### Requirements
 
 1. **Data Collection and Preprocessing**
