@@ -10,11 +10,10 @@ This repository contains a content-based recommendation engine for TV shows base
 - `evaluate_model.py`: Script for evaluating the recommendation engine.
 - `data/IMDB_Top250_Tvshows.csv`: Dataset used for the project.
 - `data/preprocessed_data.csv`: Preprocessed dataset.
-- `requirements.txt`: List of dependencies.
 
 ## Setup Instructions
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/your-username/RecommendationEngine.git
+   git clone https://github.com/satyamp03/RecommendationEngine.git
    cd RecommendationEngine
