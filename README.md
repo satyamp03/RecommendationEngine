@@ -12,7 +12,7 @@ This project involves the design and development of an AI-powered recommendation
 - `evaluate_model.py`: Script for evaluating the recommendation engine.
 - `data/IMDB_Top250_Tvshows.csv`: Dataset used for the project.
 - `data/preprocessed_data.csv`: Preprocessed dataset.
-- `requirements.txt`: List of dependencies.
+
 
 ## Setup Instructions
 
